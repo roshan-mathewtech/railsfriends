@@ -1,5 +1,10 @@
 # README
 
+Friends list app
+
+My name is Roshan Matthew
+This s my ruby on rails app
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
